@@ -2,6 +2,7 @@
 ### Signed contact details
 
 -----BEGIN PGP SIGNED MESSAGE-----
+
 Hash: SHA256
 
 Hash: SHA256
@@ -15,6 +16,7 @@ PGP fingerprint: E900 5F66 A86B B816 BD7D 967E BEDC D95C 42AC 3C57
 
 Signed on May 3rd 2019 at Bitcoin block 574387
 00000000000000000009ee0a23fba93046e505f501ee01f1b99fccbb0f8d409b
+
 -----BEGIN PGP SIGNATURE-----
 
 iQIzBAEBCAAdFiEESKcexyWeb+u7zuh5+CjfVEmKd88FAlzL158ACgkQ+CjfVEmK
@@ -30,6 +32,7 @@ Bdz350fphBGP6JDu21XpZTlqeWwIENUdD+3fTyaXNnNy7XAmO2P3ukQDiqF+ZVLe
 tYaAi4/klX93ZBE8onKcKBSzeeRcLw/o4bjRZviUOgya3JdaxVbXhLrwQfGYN6H6
 r511ur4ERw7BHOKRFccci2RBf67haX8auNbUZr2Y6pjUABZ7oCQ=
 =NOpC
+
 -----END PGP SIGNATURE-----
 
 [PGP public key](PGP_MaxHillebrand.txt)
