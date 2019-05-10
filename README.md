@@ -38,3 +38,5 @@ r511ur4ERw7BHOKRFccci2RBf67haX8auNbUZr2Y6pjUABZ7oCQ=
 [PGP public key](PGP_MaxHillebrand.txt)
 
 [Open Time Stamp](MaxHillebrandContact.txt.asc.ots)
+
+[PGP signing policy](PGP_policy.txt)
