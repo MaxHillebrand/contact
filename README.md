@@ -32,4 +32,6 @@ r511ur4ERw7BHOKRFccci2RBf67haX8auNbUZr2Y6pjUABZ7oCQ=
 =NOpC
 -----END PGP SIGNATURE-----
 
+[PGP public key](PGP_MaxHillebrand.txt)
+
 [Open Time Stamp](MaxHillebrandContact.txt.asc.ots)
