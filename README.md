@@ -1,6 +1,7 @@
 # Max Hillebrand
 ### Signed contact details
 
+```
 -----BEGIN PGP SIGNED MESSAGE-----
 
 Hash: SHA256
@@ -40,3 +41,5 @@ r511ur4ERw7BHOKRFccci2RBf67haX8auNbUZr2Y6pjUABZ7oCQ=
 [Open Time Stamp](MaxHillebrandContact.txt.asc.ots)
 
 [PGP signing policy](PGP_policy.txt)
+
+```
