@@ -1,12 +1,12 @@
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
+Hash: SHA512
 
 ==================================================================
 OpenPGP key signing policy for Max Hillebrand <max@towardsliberty.com>
-Fingerprint:    E900 5F66 A86B B816 BD7D 967E BEDC D95C 42AC 3C57
+Fingerprint:    5722 3FE1 FF39 BB1E 3FEA  6694 0F01 0959 E6C5 120C
 Policy URL:  https://towardsliberty.com/contact/PGP_policy.txt
-Public KEY:  https://towardsliberty.com/contact/PGP_MaxHillebrand.txt
-Created:     2019-02-09
+Public KEY:  https://towardsliberty.com/contact/PGP_Pubkey_MaxHillebrand_0x0F010959E6C5120C.asc
+Created:     2021-08-24
 ==================================================================
 
 INTRO
@@ -67,12 +67,12 @@ is emailed to its respective UID in an encrypted and signed email.
 
 MY KEY
 
-pub   rsa4096 2019-02-09 [C]
-      E9005F66A86BB816BD7D967EBEDCD95C42AC3C57
-uid           [ultimate] Max Hillebrand <max@towardsliberty.com>
-sub   rsa4096 2019-02-09 [S] [expires: 2020-02-09]
-sub   rsa4096 2019-02-09 [E] [expires: 2020-02-09]
-sub   rsa4096 2019-02-09 [A] [expires: 2020-02-09]
+pub   rsa4096/0x0F010959E6C5120C 2021-08-24 [C]
+      Key fingerprint = 5722 3FE1 FF39 BB1E 3FEA  6694 0F01 0959 E6C5 120C
+uid                   [ultimate] Max Hillebrand <max@towardsliberty.com>
+sub   rsa4096/0x19544EF3C3513C3C 2021-08-24 [S] [expires: 2023-08-24]
+sub   rsa4096/0x2F3C03B304C6593A 2021-08-24 [E] [expires: 2023-08-24]
+sub   rsa4096/0xCDA8575A9E62CF9B 2021-08-24 [A] [expires: 2023-08-24]
 
 
 KEY SECURITY
@@ -96,19 +96,17 @@ I maintain a revocation certificate for use in case the master key
 is compromised.
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEESKcexyWeb+u7zuh5+CjfVEmKd88FAlyx36cACgkQ+CjfVEmK
-d88oRA//RiJ4tKur9ZzTz1ZatFaa1drGkH0ggDsXDtaQHl0L4ltl5OG3OtvkfgNP
-jbLRu+Tgws+1QZqHi3AvNcKZhVnCGdqIvXLUYjshTiPEWUjLMewA309MxF9jaEqc
-LHcadWwMfC450q2Zh3zS2kBKZAfI6DUaZGgAbl4DjTzCenXtf+11nDuRpCQNS3nq
-FJ7ELBTpIzBubejY/bgExb6A87wyNaYEVDzunLrQ4q9f/BMGL8BuNrJS7FI6Wk1t
-6dXW3DDdOwpt2zy47KRzZ9KO78HCcsyd9E0gIX/jDa8O+69z1ugVQGbnB/bYtm49
-GbU3S7Ig5BM97+mGUE26z9iwL/err2XV5vqphwOuG6+YML2anPg3KyvepdUguHci
-zcviF1XnclDdEv1aK6fe/9873H8hyKAXEiLWnbngpxrEfqg/+YL16Wd8Kvi7u71Q
-U5QuImU453dY45tOx//xyBzd0E5nvAlQg8zD/dCZTzp6p0ygqnNwxiSwfcfy+3HN
-IuzNldkvaKuWuOt1tzT70upMwePbcQgXj1+MG6uVtIgot2I40wx+Sx5xcelNCsdv
-0FKq6teP91QHt3Gp7CcrQMCJPtOIeDrv1RoE86ZCfnCDJxB4Mj6B+V55zSyvHoOp
-r7i5tEXtuk59EOijmXUK0auneZ+cSNT4RGTh3lNFFD4Ej8Zv9Jc=
-=bc/9
+iQIzBAEBCgAdFiEEHqxGRakq0durF/DjGVRO88NRPDwFAmEk7RUACgkQGVRO88NR
+PDzVGg//eRgHTLVC97j1ROr0ctf7hl5sRujVaAgzheThjRgSS+8eLXsPV+SCyu8a
+ZfhBWK5glgcUWdtZzvOnDEIm14ShOWVsfidA0NMTZjPwcjGyztPpfFD6gBKWmtVQ
+omGpjZYmYniZesw5u0XYzHXc1sFqDET6e3w5TKBxmFmOBgT0ysQ2/wWtYbudFwK6
+e1Vjv/44d+k7qp5gcegfTNFf0RGw866VKMyo7LvsFPvR1wYpBJuexsSsQHAzw6oQ
+ZI/f5xGkh5fIzY/jcEokg91E8qSqt2Le0HvAiXb2vUyZqG/7J25kfqa970I7R+0V
+HxWBEXtJZ/j4XwBo20C4HhaPrVfPg5rOR7qyVzx1KvycIjp3ARZQMLknPM9RctzU
+NAimzIsgVLv7ImWmrbywn0Xo4HvgdfmQLx6HDmh97YX8VGlD7oN9dr6dcC9G7+Ws
+C54PGFUBZxOAUqYCRTEQIWSL7PvaeQ7GjjPCow2vsVg5LnV9fjnlz+zBh1Krr7rt
+bY1wKX4S3dlklQcGHyuNBmVHQ8ct3pW+7Sv3rzpQxYh9bvFQX+JZjmeg1tfFZvba
+3JoHCPIkXFqQ4zovj16QUXzLzni9w8jNY+txgEmEm3U6DtWR5ks0QKaMNiNl9MaY
+hELuJgJRTJ/7vEk+Bh5d/DnYCvyllqmaRBnJ/BZlfJZ5E/K90jk=
+=PARI
 -----END PGP SIGNATURE-----
-
-
